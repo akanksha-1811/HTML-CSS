@@ -1,0 +1,29 @@
+h2{
+    font-weight: normal;
+    text-decoration: overline;
+    font-family: fantasy;
+
+}
+
+h1{
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-family: Georgia, serif;;
+}
+
+h3{
+    text-decoration: wavy underline;
+    font-family: cursive;
+}
+
+p{
+    text-align: justify;
+    font-weight: 450;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-size: normal;
+    font-family: serif;
+}
